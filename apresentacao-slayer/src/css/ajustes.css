@@ -1,0 +1,15 @@
+@media (max-width:800px){
+    .cabecalho-principal{
+        background-image: none;
+        background-color: #5e2129 ;
+    }
+
+    img{
+        height: 200px;
+        width: 200px;
+    }
+
+    video{
+        height: 400px;
+    }
+}
